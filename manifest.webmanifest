@@ -1,0 +1,22 @@
+{
+ "name": "Federal Sentencing Explorer",
+ "short_name": "Sentencing",
+ "description": "805,875 federal sentences, FY2014-FY2025. A resource from Dynamis LLP.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#16233b",
+ "theme_color": "#16233b",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
